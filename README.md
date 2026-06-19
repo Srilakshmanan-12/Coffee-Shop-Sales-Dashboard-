@@ -1,6 +1,6 @@
-# ☕ Coffee Shop Sales Dashboard (Excel)
+#  Coffee Shop Sales Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 
 The Coffee Shop Sales Dashboard is an interactive Excel-based business analytics solution designed to analyze sales performance, customer purchasing behavior, and operational trends across a full year of transaction data.
 
@@ -8,7 +8,7 @@ Using advanced Excel features such as Pivot Tables, Pivot Charts, Slicers, and D
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze sales performance across 12 months of transaction data.
 - Identify peak sales hours and customer purchasing patterns.
@@ -19,7 +19,7 @@ Using advanced Excel features such as Pivot Tables, Pivot Charts, Slicers, and D
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - Total Revenue
 - Total Transactions
@@ -33,7 +33,7 @@ Using advanced Excel features such as Pivot Tables, Pivot Charts, Slicers, and D
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Sales Performance Analysis
 - Analyzed 12 months of transactional sales data to evaluate overall business performance.
@@ -58,7 +58,7 @@ Using advanced Excel features such as Pivot Tables, Pivot Charts, Slicers, and D
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -70,7 +70,7 @@ Using advanced Excel features such as Pivot Tables, Pivot Charts, Slicers, and D
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - Interactive Dashboard Navigation
 - Dynamic Filters and Slicers
@@ -83,7 +83,7 @@ Using advanced Excel features such as Pivot Tables, Pivot Charts, Slicers, and D
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 Add dashboard screenshots here.
 
@@ -95,7 +95,7 @@ Add dashboard screenshots here.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Coffee-Shop-Sales-Dashboard/
@@ -114,7 +114,7 @@ Coffee-Shop-Sales-Dashboard/
 
 ---
 
-## 🚀 Business Impact
+## Business Impact
 
 - Analyzed one year of sales transactions to uncover actionable business insights.
 - Improved inventory planning and stock management decisions by approximately 25%.
@@ -124,7 +124,7 @@ Coffee-Shop-Sales-Dashboard/
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Customer Segmentation Analysis
 - Sales Forecasting Models
@@ -135,13 +135,10 @@ Coffee-Shop-Sales-Dashboard/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**
+**Srilakshmanan M**
 
 Data Analyst | Business Intelligence Enthusiast
 
 
----
-
-⭐ If you found this project useful, feel free to star the repository.
